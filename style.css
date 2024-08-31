@@ -17,7 +17,10 @@ body {
   padding: 10px;
   margin: 0;
 }
-
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: black;
+}
 h2 {
   margin: 10px 0 20px;
   text-align: center;
